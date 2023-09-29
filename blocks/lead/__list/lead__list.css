@@ -1,0 +1,7 @@
+.lead__list {
+  margin: 0 0 16px;
+}
+
+.lead__list:last-of-type {
+  margin: 0;
+}

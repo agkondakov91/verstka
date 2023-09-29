@@ -1,0 +1,6 @@
+.lead__points {
+  background-image: url(../../../images/svg/points.svg);
+  width: 32px;
+  height: 8px;
+  margin-top: 10px;
+}

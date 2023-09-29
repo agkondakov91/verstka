@@ -1,0 +1,23 @@
+/* Стили шрифтов */
+@import url(../fonts/fonts.css);
+
+/* Глобальные стили */
+@import url(../blocks/page/page.css);
+
+/* Header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/logo/logo.css);
+
+/* Content */
+@import url(../blocks/main/main.css);
+@import url(../blocks/lead/__points/lead__points.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__content/lead__content.css);
+@import url(../blocks/lead/__items/lead__items.css);
+@import url(../blocks/lead/__list/lead__list.css);
+
+/* Footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
